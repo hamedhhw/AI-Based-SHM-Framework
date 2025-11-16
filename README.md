@@ -20,7 +20,7 @@ Each tool includes representative sample datasets to ensure reproducibility of t
 
 Performs operational modal analysis using:
 
-Stochastic Subspace Identification (SSI-Cov)
+-Stochastic Subspace Identification (SSI-Cov)
 
 Frequency Domain Decomposition (FDD)
 
