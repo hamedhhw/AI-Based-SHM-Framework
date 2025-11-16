@@ -28,6 +28,7 @@ Performs operational modal analysis using:
 
 Input: Raw acceleration time series
 Output: Natural frequencies and mode shapes
+
 --------------------------------------------------
 
 # Module 2 — CVAE-Based Condition-Aware Anomaly Detection
@@ -42,8 +43,8 @@ The CVAE reconstructs the expected healthy response under given environmental co
 Anomaly is quantified via MAPE and classified into:
 - Healthy, Moderate, Significant, Critical.
 
-- Input: Natural frequencies
-- Output: Reconstructed frequencies + anomaly score
+Input: Natural frequencies
+Output: Reconstructed frequencies + anomaly score
 
 --------------------------------------------------
 
@@ -57,8 +58,8 @@ Outputs include:
 - Damage probability distribution
 - Damage localization map
 
-- Input: Raw acceleration of healthy/damaged structures
-- Output: Damage zone and severity classification
+Input: Raw acceleration of healthy/damaged structures
+Output: Damage zone and severity classification
 
 --------------------------------------------------
 
