@@ -27,6 +27,7 @@ Performs operational modal analysis using:
 - Prominence-based peak detection in modal PSDs
 
 Input: Raw acceleration time series
+
 Output: Natural frequencies and mode shapes
 
 --------------------------------------------------
@@ -44,6 +45,7 @@ Anomaly is quantified via MAPE and classified into:
 - Healthy, Moderate, Significant, Critical.
 
 Input: Natural frequencies
+
 Output: Reconstructed frequencies + anomaly score
 
 --------------------------------------------------
@@ -59,6 +61,7 @@ Outputs include:
 - Damage localization map
 
 Input: Raw acceleration of healthy/damaged structures
+
 Output: Damage zone and severity classification
 
 --------------------------------------------------
