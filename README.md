@@ -26,9 +26,8 @@ Performs operational modal analysis using:
 - Automated stable-pole selection using Isolation Forest
 - Prominence-based peak detection in modal PSDs
 
-- Input: Raw acceleration time series
-- Output: Natural frequencies and mode shapes
-
+Input: Raw acceleration time series
+Output: Natural frequencies and mode shapes
 --------------------------------------------------
 
 # Module 2 — CVAE-Based Condition-Aware Anomaly Detection
