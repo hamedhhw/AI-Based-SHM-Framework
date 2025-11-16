@@ -1,5 +1,5 @@
 # AI-Based-SHM-Framework
-Condition-aware AI framework for automated structural health monitoring
+**Condition-aware AI framework for automated structural health monitoring**
 
 This repository provides the executable releases of a three-module Structural Health Monitoring (SHM) framework developed as part of an advanced research program on vibration-based damage detection and localization.
 
